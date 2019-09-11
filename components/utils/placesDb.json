@@ -1,0 +1,864 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "CqQCGQEAAFxH0zITw9NMh4aeAKhfzAUttanjWygSUbb6jSUnwvustwloRV2c9wxrweKyKTpKJDfF50zy_-wg13lSobMQxf9F9X8bHIoZdMvpgNwtLuojP1t1VMYoi558dlcgH_frecP0O-EPGXZ6j7vQ6y4H20OUTyGfxpgRpCyihV0U9JEVXPX9H5MH_z7G1WJ_m0LYHvgyu34iMpxFOOT8i_5pdlp1MEoqYyxDtirY3GXpwkQMCFCQcwzoGJl3OvdR_cxtXI3Uxn7Mgj6xtT2GFkxwF4d6I7vx1dxPSON0axcEHSX6nKAdDYWDwmcuUGceLCIO0oqsRPgc2O-T7c4_JJfNu04ECWgrO55kWjG2JEZEa09gndUs0d7517Tuz_7k8BoQPRIQbLogA8amAelu1ZB_R9UENxoUwp9fLlZuCaH_QLRhV3szM_EQJvk",
+  "results" : [
+    {
+      "formatted_address" : "Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0154478,
+          "lng" : 38.9683935
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01679762989272,
+            "lng" : 38.96974332989271
+          },
+          "southwest" : {
+            "lat" : 45.01409797010728,
+            "lng" : 38.96704367010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "0e4d9369784821f10fbdfc11fa5cfa0eee75338d",
+      "name" : "Памятник Императрице Екатерине II",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2048,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104164073362286683035/photos\"\u003eГеннадий Козьмин\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA9Q1_ldi3z_OVg49A3Zk1a3pDFwkIn00jGg3y57z8MXKK_jJXX7A234VZ6eT6E74ZhklAo9ejv9zEXmaNHqjItiroXmX7n0lbQSVj_IUkVj-JfDX3MfgcF-Iaqu12NqaVEhAROhM36Hw3x6AsjEdRf7h9GhS4a3NNYhXkn_mrIaRK60-fI5GbQQ",
+          "width" : 1536
+        }
+      ],
+      "place_id" : "ChIJTZkyXrVP8EARjh31uPyFE7A",
+      "plus_code" : {
+        "compound_code" : "2X89+59 Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X89+59"
+      },
+      "rating" : 4.8,
+      "reference" : "ChIJTZkyXrVP8EARjh31uPyFE7A",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 595
+    },
+    {
+      "formatted_address" : "ул. Советская, 35 корпус 2, Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0180664,
+          "lng" : 38.9678074
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01934097989272,
+            "lng" : 38.96913077989272
+          },
+          "southwest" : {
+            "lat" : 45.01664132010728,
+            "lng" : 38.96643112010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "dcd1dccecff27c68d75318601107b7dd7e41a99f",
+      "name" : "Памятник Репину",
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109532515543697669147/photos\"\u003eСергей Чирко\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAAi73_XwFlOoCB3HKJp44d7yQr6XOMmolBcbjO5Xf_Uaus6se_FdUphtBgb58sr0mj-EbMR-RVLRo8Do0wCTxhey93FMOiYFNeOtvUGqhchnkHPmpcRU0dnQ0huDu-VqREhAm2_BFfRjP5375OsCA5hmGGhRIBSUO_1D6GwWLvmaPMOH_YM7_LQ",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJ8w6QS7RP8EARlOgRuQCXgj4",
+      "plus_code" : {
+        "compound_code" : "2X99+64 Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X99+64"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJ8w6QS7RP8EARlOgRuQCXgj4",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 12
+    },
+    {
+      "formatted_address" : "ул. Красная, 3, Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0156331,
+          "lng" : 38.9670358
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01660352989271,
+            "lng" : 38.96856687989272
+          },
+          "southwest" : {
+            "lat" : 45.01390387010727,
+            "lng" : 38.96586722010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "14e35321f8a8920dcd86b2683ab33add1b3265a2",
+      "name" : "Каскадный фонтан",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1280,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105931285803254643552/photos\"\u003eAndrey Voronin\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAJpy89q8qq9ukeXRtVMpHOjTQlqLSIE7m6K4vOaoYj1q6-PLsr907bJa4e9K0WSpAzHlkdhyiC2vxXPC4RkOtU5OlmkiOrvrGbTFIPQ_lgW4tQTtB_JdopRsMThwPyrDkEhDeAmEbs8tWuLgtRNDQpxUyGhTmvl1VRY9VW3N8Akph2him0l3lHQ",
+          "width" : 1024
+        }
+      ],
+      "place_id" : "ChIJlXHPQLVP8EARnd67jw5mmbM",
+      "plus_code" : {
+        "compound_code" : "2X88+7R Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X88+7R"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJlXHPQLVP8EARnd67jw5mmbM",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 9
+    },
+    {
+      "formatted_address" : "ул. Береговая, 146, Краснодар, Краснодарский край, Россия, 350007",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0169693,
+          "lng" : 38.95178420000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.0195364,
+            "lng" : 38.95472434999999
+          },
+          "southwest" : {
+            "lat" : 45.0161136,
+            "lng" : 38.95080415
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id" : "641c8ceff5501dd0f1bc36dc3d60b9c617f00c1d",
+      "name" : "Парк культуры и отдыха имени 30-летия Победы",
+      "opening_hours" : {},
+      "photos" : [
+        {
+          "height" : 1536,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109122521645234821442/photos\"\u003eАндрей Гришечкин\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAXzgO5Ym0PfC5acIWLJUmqxzGpBV0hobmTkq1sl1EjAY2d427jVO-JJ0v7faNnFqIgr9c_echk_7JTJbPkW2umnkadtXjVKuGrigxHm3Ht6ZBfLlUPpjgJe64GDnzhNt1EhDqyj_FC9FsU8tx-8ISJVt2GhTu8TbuaqAeWvYcS59xpv5b6QZOiA",
+          "width" : 2048
+        }
+      ],
+      "place_id" : "ChIJ4VTok01O8EARlEjR04B1WD0",
+      "plus_code" : {
+        "compound_code" : "2X82+QP Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X82+QP"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJ4VTok01O8EARlEjR04B1WD0",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 5070
+    },
+    {
+      "formatted_address" : "ул. Красная, 6, Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0169506,
+          "lng" : 38.968062
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01801117989272,
+            "lng" : 38.96919907989273
+          },
+          "southwest" : {
+            "lat" : 45.01531152010728,
+            "lng" : 38.96649942010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "382990c1d59d23ab8cd4be7433c10363626e0ed5",
+      "name" : "Памятник А.С.Пушкину",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 5312,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107421991101377103330/photos\"\u003eВалерий Токарев\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAnrXBtNRVHVZMXzzdwAIFWCzLp8Flt9mIS6yFW1iCJXjYORV76BOb__8cSxx-J7Pjwfy2JwwsG6QZklQcv5lSVYaq5AjWo8uGYS5nMX0cjtrv7uR3MSZ7ng64CstNfTgCEhARhKJaxLShlCp0W_BmHIqcGhRHRzN8-jH5mZw4xf5tQd1tYF-uFw",
+          "width" : 2988
+        }
+      ],
+      "place_id" : "ChIJSfyfoLVP8EARBsZCQxoOskg",
+      "plus_code" : {
+        "compound_code" : "2X89+Q6 Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X89+Q6"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJSfyfoLVP8EARBsZCQxoOskg",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 25
+    },
+    {
+      "formatted_address" : "ул. Коммунаров, 8, Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0149378,
+          "lng" : 38.9720015
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01632407989272,
+            "lng" : 38.97314322989271
+          },
+          "southwest" : {
+            "lat" : 45.01362442010728,
+            "lng" : 38.97044357010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "605bcffac8a283870d8f9017f3dd360b45fba6ed",
+      "name" : "Усадьба Купца Рубежанского",
+      "photos" : [
+        {
+          "height" : 1728,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109597082636903256345/photos\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAV7_mwRw6XBLNtiiEbn6XpKSmEksNeq2QK5GvNFDNA0wH_jftfWG2URawRDaRqxhuiSIFTGA397s9WuDy-emq-AxVQAXM4a8SyiNu4NmTiQKu8Gu5xsyos-89_Ihm4QpSEhCo-tZYVq0DY_1YSDfgON1EGhSCuKDjx6_7lqvUng17187_3v0TFA",
+          "width" : 2880
+        }
+      ],
+      "place_id" : "ChIJkydq-spP8EARvsPo4jabZrQ",
+      "plus_code" : {
+        "compound_code" : "2X7C+XR Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X7C+XR"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJkydq-spP8EARvsPo4jabZrQ",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 18
+    },
+    {
+      "formatted_address" : "Краснодар, Краснодарский край, Россия, 350007",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0218625,
+          "lng" : 38.9538641
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.02321232989272,
+            "lng" : 38.95521392989272
+          },
+          "southwest" : {
+            "lat" : 45.02051267010727,
+            "lng" : 38.95251427010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "9da4b7ad0f57f7ea90ae70b37e69c83125df5496",
+      "name" : "Музей военной техники «Оружие Победы»",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 2268,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113819804305581101700/photos\"\u003eحسن رائد\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAl-7iP_HO1BYNy7R34nvZ8fw6H6wODEJBQvWOj3w7MkaQjjBh0W8MPSR-or_k1rZtVWg-TF36Ti-bJDGyHpDKpsvjENAeb6tU1fQ7YnWamIjUrBCfiyXvkcNH9rOSlF7mEhDZ7XizjJClfhjVi7iCveLiGhTM7ji6r5RDyWNz4C7eiT_e85dxNQ",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJSdDr56xP8EAR_0ornp6OO5Y",
+      "plus_code" : {
+        "compound_code" : "2XC3+PG Краснодар, Краснодарский край",
+        "global_code" : "8GQW2XC3+PG"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJSdDr56xP8EAR_0ornp6OO5Y",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 263
+    },
+    {
+      "formatted_address" : "ул. Пушкина, 43, Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0162978,
+          "lng" : 38.96865469999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01757622989272,
+            "lng" : 38.96997752989271
+          },
+          "southwest" : {
+            "lat" : 45.01487657010728,
+            "lng" : 38.96727787010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4e3f87f1756fde975d1aa768a0c84742e3af9121",
+      "name" : "Дом А. Р. Ялового",
+      "photos" : [
+        {
+          "height" : 2160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110576126499834239531/photos\"\u003eВалерий Пиго\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRZAAAAIy4QgOLCNp9tRQ0nBueg1gNAFJYp4D-b1eS65VryQAcYy1_DE-6vsjbSLOHCWNgGviRoZ-A1KCkneZ5dsCYYbEjD4VnulYzjkDRceWZXfe1OKZgvafluJvr9kZHqTD1WEhCEXV1jgjh42HLRpYax7yOIGhT1NkvQMJX_TgwOj6ahxUrNM72tvQ",
+          "width" : 3840
+        }
+      ],
+      "place_id" : "ChIJGxlScbVP8EARUe9A6idEWPM",
+      "plus_code" : {
+        "compound_code" : "2X89+GF Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X89+GF"
+      },
+      "rating" : 5,
+      "reference" : "ChIJGxlScbVP8EARUe9A6idEWPM",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 2
+    },
+    {
+      "formatted_address" : "Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.014713,
+          "lng" : 38.969834
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01591757989272,
+            "lng" : 38.97113117989272
+          },
+          "southwest" : {
+            "lat" : 45.01321792010727,
+            "lng" : 38.96843152010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ef2ed8ed58d4d56d186339510ce0a78c31b7d5f8",
+      "name" : "Дуб великан",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102330085618516836920/photos\"\u003eMikhail Merinov\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAY6KBWw5UFc52WaZlSnWj-M1Z3mQaPw7WlPWqTvX7mgXZIBTgDH6mbke1QuowDF4urajisjttpNzlogE-PRk_bXDhxmOcURcRwGdHZH30JGr4ory5zufC4rMX0olz4kJKEhCmrAayOKg3p1EVdrH8qDsXGhTgAmmLXiN5c_8qsjfyCmM14eHe-g",
+          "width" : 3840
+        }
+      ],
+      "place_id" : "ChIJKWFzvspP8EARvhPwV9FUPIk",
+      "plus_code" : {
+        "compound_code" : "2X79+VW Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X79+VW"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJKWFzvspP8EARvhPwV9FUPIk",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 4
+    },
+    {
+      "formatted_address" : "ул. Постовая, 39, Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0159049,
+          "lng" : 38.961526
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01716812989272,
+            "lng" : 38.96320452989271
+          },
+          "southwest" : {
+            "lat" : 45.01446847010728,
+            "lng" : 38.96050487010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "108570fecdceaaf4125287a4ec29eb7325cd38fa",
+      "name" : "Литературный Музей Кубани",
+      "photos" : [
+        {
+          "height" : 1920,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114008434453135967711/photos\"\u003eГилев Георгий\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAr5ye0bDt6jEHwPoZ5MErq0NyPlcXUQfYdxk4tPDqgAX208fjgJ47MoIOcmZuqc8bAsRmmdDJ5RDOBGaoPb7S-ehVwnt3O03xKjPlzKP28luIRyWWF20UXFHuMjZB32Z_EhCprds7yJ1RxXH5GdhbrtVeGhS7j27Xw_42MrDwfqvCSoJ7Ugy9Yw",
+          "width" : 2560
+        }
+      ],
+      "place_id" : "ChIJJ5axRUtO8EAR40nQU_i59kU",
+      "plus_code" : {
+        "compound_code" : "2X86+9J Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X86+9J"
+      },
+      "rating" : 4.9,
+      "reference" : "ChIJJ5axRUtO8EAR40nQU_i59kU",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 32
+    },
+    {
+      "formatted_address" : "ул. Красная, 13, Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.01759,
+          "lng" : 38.9678
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01904997989273,
+            "lng" : 38.96931707989272
+          },
+          "southwest" : {
+            "lat" : 45.01635032010728,
+            "lng" : 38.96661742010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "841b2f4e783fc5eb9fda0906327eff1b5f6be78c",
+      "name" : "Краснодарский краевой художественный музей имени Коваленко",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 2240,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110131182391831372980/photos\"\u003eКонстантин Шалаев\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAlnEQuUYgtuSxiTpu12bzMpPXJWq-rWuK3b5j4FpQTk-HJSyXffRRiwIv5UDThaP3VkADYfZxsJKOrCp4VxYBTLrE5qXzfpw32Q95t0fiVUA_8NyV5x9kZKiGm8JnB3mLEhDCNow98hspHPCUx1B7AlC4GhSmWeLZ0bGbpxNckjU2Umd7wzcxNQ",
+          "width" : 3968
+        }
+      ],
+      "place_id" : "ChIJc0NFUoNP8EAR0eAB_jL-3d8",
+      "plus_code" : {
+        "compound_code" : "2X99+24 Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X99+24"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJc0NFUoNP8EAR0eAB_jL-3d8",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 674
+    },
+    {
+      "formatted_address" : "Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0156085,
+          "lng" : 38.9686925
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01695832989272,
+            "lng" : 38.97004232989271
+          },
+          "southwest" : {
+            "lat" : 45.01425867010728,
+            "lng" : 38.96734267010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+      "id" : "0254d8c479f5b85ec0e99f29dcc41dd562c66f15",
+      "name" : "Екатерининский сквер",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 4160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112420883206254126052/photos\"\u003eМаксим Шмендель\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAjF4HRgWKfLUDQVB88Kp2KBGoFS3Qm4Z7imvG8r7ejE5rcqasBU8x2momfqIvG4WGv9PZeqe2QkgP9JtaIDW4MthhdrrurRalExZJeoFOq36ZNpsGv7SpHkWxz0sNg6bwEhBixg3ppmSveYbZq-02moOGGhTOTdfwkVXa22rBf6SL6miGHkIlxw",
+          "width" : 3120
+        }
+      ],
+      "place_id" : "ChIJ901JZ7VP8EARouQvLyI0yc8",
+      "plus_code" : {
+        "compound_code" : "2X89+6F Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X89+6F"
+      },
+      "rating" : 4.8,
+      "reference" : "ChIJ901JZ7VP8EARouQvLyI0yc8",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 2587
+    },
+    {
+      "formatted_address" : "ул. Захарова, 65, Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.012499,
+          "lng" : 38.96996499999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01387862989272,
+            "lng" : 38.97112217989272
+          },
+          "southwest" : {
+            "lat" : 45.01117897010728,
+            "lng" : 38.96842252010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "940af19f9fc3cb2b0173dd4c7dfb7be6b5d53cd2",
+      "name" : "Архитектурно-скульптурная композиция \"Добрый Ангел Мира\"",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 4160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109532515543697669147/photos\"\u003eСергей Чирко\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAMtf0aSJx1lriPH2IXnWoz6y0VGXZcB1YiQMYrOA5WgHQT3yBHTj-v6kUsr2WuxFgTA1abUIhAjSaG4Qm_114Dh-LLEs3knkg1b8ulvvO0UpTboKhnbKuO1zLMmr7MYrXEhDGI-FpZDZ4Jl5OlUSBGk4bGhTRjI3krNHgSdgqNdquL6H4bUXqxg",
+          "width" : 3120
+        }
+      ],
+      "place_id" : "ChIJ_UN62TRO8EAREtjVrSQYilU",
+      "plus_code" : {
+        "compound_code" : "2X69+XX Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X69+XX"
+      },
+      "rating" : 4.9,
+      "reference" : "ChIJ_UN62TRO8EAREtjVrSQYilU",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 10
+    },
+    {
+      "formatted_address" : "ул. Пушкина, 32, Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0152965,
+          "lng" : 38.9716098
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01680687989273,
+            "lng" : 38.97301167989272
+          },
+          "southwest" : {
+            "lat" : 45.01410722010728,
+            "lng" : 38.97031202010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cb15a801e9ba91f0a390241ca7b979f6fd784443",
+      "name" : "Дерево Платан",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 4160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109532515543697669147/photos\"\u003eСергей Чирко\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA7gNN-C6B8BhxR0EnD8p3lyFKRmtUE6n0rVMgZXNOzo910psoXy0uK45A7GkJER6x2RzbFr_sBTbRC66Vt_DeXrpn_drvaojS3IZnQcbYnU0HUwriRpXHf1Isrke0hHfzEhDvhZNco5qDwYiCea3_nIe2GhS8abnDr-MH8XrIqe6cHM-7Y-kaog",
+          "width" : 3120
+        }
+      ],
+      "place_id" : "ChIJ3dMc9cpP8EARNS9gh5kCDv4",
+      "plus_code" : {
+        "compound_code" : "2X8C+4J Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X8C+4J"
+      },
+      "rating" : 4.8,
+      "reference" : "ChIJ3dMc9cpP8EARNS9gh5kCDv4",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 6
+    },
+    {
+      "formatted_address" : "Красноармейская ул., 2, Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.015146,
+          "lng" : 38.9699078
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01649582989273,
+            "lng" : 38.97125762989273
+          },
+          "southwest" : {
+            "lat" : 45.01379617010728,
+            "lng" : 38.96855797010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b623448ad4696157deae96c1e8a7573d21198ca3",
+      "name" : "Памятник Суворову",
+      "photos" : [
+        {
+          "height" : 1536,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110505331814510002373/photos\"\u003eAkela White\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAu1f8JXZdxUT4BLR-VXPaldOTASwS_h_7GRGtD02RyLB0LJzt_0ouwtH413PJDBfw5pw_D_q8nl2Xra9hEsbTBZLw4Bax9hHhY1N93M5hIFng7kC8wQftqFwVKl6vkFEPEhBAy9K1C6MubDMWgbOh26_tGhQ7P7Xo0y0Rsl_9KJ_p_rrnzt0TJg",
+          "width" : 2048
+        }
+      ],
+      "place_id" : "ChIJNe-ukMpP8EARaVUTb1H5xTE",
+      "plus_code" : {
+        "compound_code" : "2X89+3X Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X89+3X"
+      },
+      "rating" : 3.7,
+      "reference" : "ChIJNe-ukMpP8EARaVUTb1H5xTE",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 7
+    },
+    {
+      "formatted_address" : "Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.014435,
+          "lng" : 38.9710509
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01569902989272,
+            "lng" : 38.97237582989272
+          },
+          "southwest" : {
+            "lat" : 45.01299937010727,
+            "lng" : 38.96967617010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "7b3856042b89adce379448dc599f0d2ec8a0ce75",
+      "name" : "Младший брат Дуба-великана",
+      "photos" : [
+        {
+          "height" : 4160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109532515543697669147/photos\"\u003eСергей Чирко\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAvVvOYIUuOGypttcbq7iXgzd9t_X6_6e-hysJ71EhTKeMMBk6Kjs7r1WOSXTUXuwWu9U7bFFCQZqoTQyffui3Hlv501Ez-Y9rjuoaPOe6kKlVmZGcDKRTmQukeowMofLmEhDJ9V_PmwRVeH_rMpx0FvajGhTFEFGjmQyvnwhSQoF_upN_DUsXSQ",
+          "width" : 3120
+        }
+      ],
+      "place_id" : "ChIJ0xdlsCJP8EARaFcqua2-wss",
+      "plus_code" : {
+        "compound_code" : "2X7C+QC Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X7C+QC"
+      },
+      "rating" : 5,
+      "reference" : "ChIJ0xdlsCJP8EARaFcqua2-wss",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1
+    },
+    {
+      "formatted_address" : "Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0132646,
+          "lng" : 38.9703559
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.01461442989272,
+            "lng" : 38.97170572989273
+          },
+          "southwest" : {
+            "lat" : 45.01191477010727,
+            "lng" : 38.96900607010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ed54c32f40fce296226e702e7790fb4adb535c8e",
+      "name" : "Фонтан(городской парк)",
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109532515543697669147/photos\"\u003eСергей Чирко\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAD3AI0ml5CwdslR_LmdsQaRXJJPfB7GbPOm0SrWLtc-5EWizo8zqbI__PI2tC-NQiyQ-slbFWE2HH14wYeYQNRlvb-RJlPEbDOG2-pxzboG15lBOWpq0TiGD2DNV-ctlFEhDuxu1P7p99_TiQxmZNeZE6GhRMMa4Nng5WojvG5T1oFMlkOZ6Gwg",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJGwUoTYtP8EAR1hiG_SOSrQA",
+      "plus_code" : {
+        "compound_code" : "2X7C+84 Краснодар, Краснодарский край",
+        "global_code" : "8GQW2X7C+84"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJGwUoTYtP8EAR1hiG_SOSrQA",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3
+    },
+    {
+      "formatted_address" : "Красноармейская ул., 41, Краснодар, Краснодарский край, Россия, 350000",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0264493,
+          "lng" : 38.9730969
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.02778532989272,
+            "lng" : 38.97451847989273
+          },
+          "southwest" : {
+            "lat" : 45.02508567010728,
+            "lng" : 38.97181882010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d86aca3f79e5909cb7c0a96338bbb949c0bf8c68",
+      "name" : "Памятник Кошельку",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 4160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103157340980844175856/photos\"\u003eАлександра Яковенко\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAOU-fn_x3ChsNq5hWOdBfURM78JAX4Qq4tVzc0NnJlXWZpQT9UESFxzk9uNp2dDWutgu1n5E7eNjeDk8JlzbF0UBovpUf0JOTLrskuCOj4WPoq56ESYOlQiAhiWQwTUSxEhAXpR8GdkP5VYu71nLf4g7kGhSTwKd0_Xow1BxDGlbJwnOAzknyFg",
+          "width" : 3120
+        }
+      ],
+      "place_id" : "ChIJN4RCsLtP8EARer6_VNvFcRE",
+      "plus_code" : {
+        "compound_code" : "2XGF+H6 Краснодар, Краснодарский край",
+        "global_code" : "8GQW2XGF+H6"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJN4RCsLtP8EARer6_VNvFcRE",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 137
+    },
+    {
+      "formatted_address" : "ул. Красная, 23, Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0207582,
+          "lng" : 38.9689991
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.02209892989271,
+            "lng" : 38.97041242989271
+          },
+          "southwest" : {
+            "lat" : 45.01939927010727,
+            "lng" : 38.96771277010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "3f7dc45b36ec47c39ad001080bc154370345f4b7",
+      "name" : "Памятник «Собачкина столица»",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 4160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105425515087076707592/photos\"\u003eЮрий Иванович\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAdefEMWLQ_vPeDqXCE4ICqPuzFDCn7yyDfypVYH1rsmGEYxB59jXQdtkw2QWz-SnGqYI7VMGe3CCEaMTlToz4JwSHG_9NxCD643uS7cwvPOIQbqV8RDt3f9cyXgHIvbLwEhDqycwM3fNLu3NssEZoZfmhGhTiQ4IdEnS9Eai8Fv3RvIHl8bpVyg",
+          "width" : 3120
+        }
+      ],
+      "place_id" : "ChIJ15pix7ZP8EARACEz-BWAUn4",
+      "plus_code" : {
+        "compound_code" : "2XC9+8H Краснодар, Краснодарский край",
+        "global_code" : "8GQW2XC9+8H"
+      },
+      "rating" : 4.8,
+      "reference" : "ChIJ15pix7ZP8EARACEz-BWAUn4",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 228
+    },
+    {
+      "formatted_address" : "ул. Кубанская набережная, Краснодар, Краснодарский край, Россия, 350063",
+      "geometry" : {
+        "location" : {
+          "lat" : 45.0253232,
+          "lng" : 38.95784099999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 45.02656552989272,
+            "lng" : 38.95942882989272
+          },
+          "southwest" : {
+            "lat" : 45.02386587010728,
+            "lng" : 38.95672917010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8bf2a1500ed0f6ee1f7c8f39b66d3eed45454749",
+      "name" : "Мост Поцелуев",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2250,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117557924700469724617/photos\"\u003eСергей Пичугин\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAUSnPbE8NKqlsSjHluDJWhb-YRGvWFwI_z4jpjpQpkZF8Jpv4JcWRic4QLk7B_1eAn9ibCEgXyNqvrPTkaI32gkzFivAXSgPe9hqwNML_5VUK1vI4qDMhDd-oQc4kkPWxEhB6kN_OM1sfoXAxVPLgklPFGhTEca9XROprnXg1gS8SnnmEV7p6TA",
+          "width" : 4000
+        }
+      ],
+      "place_id" : "ChIJBboV7a5P8EARErMVkRz-JPs",
+      "plus_code" : {
+        "compound_code" : "2XG5+44 Краснодар, Краснодарский край",
+        "global_code" : "8GQW2XG5+44"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJBboV7a5P8EARErMVkRz-JPs",
+      "types" : [ "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3427
+    }
+  ],
+  "status" : "OK"
+}
